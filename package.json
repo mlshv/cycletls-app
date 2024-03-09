@@ -38,6 +38,7 @@
   "license": "MIT",
   "dependencies": {
     "cycletls": "^1.0.26",
-    "electron-squirrel-startup": "^1.0.0"
+    "electron-squirrel-startup": "^1.0.0",
+    "form-data": "^4.0.0"
   }
 }
